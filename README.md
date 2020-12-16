@@ -1,16 +1,16 @@
 # Basics on Web Scraping :mag_right:
 
-![](https://github.com/dpbac/basics-web-scraping/blob/master/images/webpage_webscraping.JPG)
+![](https://github.com/MKB-Datalab/basics_web_scraping/blob/master/images/webpage_webscraping.JPG)
 
 In this project/tutorial we introduce some basics on `web scraping`. This technique allows us to retrieve data from websites. This can be especially very handy when there 
 are no datasets available or/and it is not possible to obtain such data via APIs.
 
 In our example it is possible to see how to obtain data from different websites having a basic knowledge on HTML and using some Python, and Python packages.
 
-The [notebook](https://github.com/dpbac/basics-web-scraping/blob/master/notebooks/Basic%20Tutorial%20Webscraping.ipynb) explains the technique step-by-step using an entertainment 
+The [notebook](https://github.com/MKB-Datalab/basics_web_scraping/blob/master/notebooks/Basic%20Tutorial%20Webscraping.ipynb) explains the technique step-by-step using an entertainment 
 example. However, this technique is applicable to any case where obtaining (extra) data is necessary.
 
-A [blog](https://medium.com/@DPaesBarretto/basics-on-web-scraping-12eba03bed1d) was also written with the same content in a more compact presentation.
+A [blog](https://jadsmkbdatalab.nl/web-scraping/) was also written with the same content in a more compact presentation.
 
 ## :wrench: Tools
 
@@ -27,4 +27,4 @@ Some knowledge on lists, list comprehension, and string methods is also very hel
   * You may want to use a virtual environment for this.
 
 -------------------------------------
-[:arrow_backward: **Back to repository main page**](https://github.com/dpbac/test_mkb_knowledge_repo)
+[:arrow_backward: **Back to repository main page**](https://github.com/MKB-Datalab/mkbdatalab_knowledge_repository_main/tree/master)
