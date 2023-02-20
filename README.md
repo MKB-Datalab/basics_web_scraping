@@ -7,7 +7,7 @@ are no datasets available or/and it is not possible to obtain such data via APIs
 
 In our example it is possible to see how to obtain data from different websites having a basic knowledge on HTML and using some Python, and Python packages.
 
-The [notebook](https://github.com/MKB-Datalab/basics_web_scraping/blob/master/notebooks/Basic%20Tutorial%20Webscraping.ipynb) explains the technique step-by-step using an entertainment 
+The [notebook](https://github.com/MKB-Datalab/basics_web_scraping/blob/master/notebooks/Basic%20Tutorial%20Webscraping-Updated_Jan2022.ipynb) explains the technique step-by-step using an entertainment 
 example. However, this technique is applicable to any case where obtaining (extra) data is necessary.
 
 A [blog](https://jadsmkbdatalab.nl/web-scraping/) was also written with the same content in a more compact presentation.
